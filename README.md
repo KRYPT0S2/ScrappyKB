@@ -29,6 +29,9 @@ I majorly made this just for fun and to get back into making hardware, i used Ki
 
 <img width="802" height="478" alt="image" src="https://github.com/user-attachments/assets/01a05198-72c6-4a04-ad8f-c4560a25016d" />
 
+<img width="608" height="488" alt="image" src="https://github.com/user-attachments/assets/f15777e2-d4e6-448f-aaf5-2656a5390761" />
+
+<img width="1214" height="672" alt="image" src="https://github.com/user-attachments/assets/a5069094-2d93-416c-9d66-b1e311616216" />
 
 ### Enclosure and Switch Plate
 * Modeled in Fusion 360
