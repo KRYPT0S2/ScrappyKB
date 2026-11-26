@@ -3,7 +3,7 @@ title: "SplitKB"
 github: "https://github.com/KRYPT0S2/ScrappyKB"
 description: "A custom 68-key wireless split keyboard made with Ergogen, KiCad, Fusion 360, and KMK firmware."
 created_at: "2026-11-07"
-total_time: "28h 54m"
+total_time: "29h 54m"
 ---
 
 # November 8, 2026: Just followed the tutorial for a bit
@@ -129,5 +129,6 @@ I double-checked all the CAD files in the repo and confirmed that the combined c
 ![](https://fabricate.hackclub-assets.com/a8e14fd124f132066cd5f9ff4e6da730283423798a00787394cec929dddc6aba/image-png/image.png)
 ![](https://fabricate.hackclub-assets.com/2dcaaca0b55e00cde409c2b42a85eeecb9141d7411c49bd037efe411d958405c/image-png/image.png)
 Some prices increased since the last time i made the BOM, so i updated it along with updating the case for the to fit more smoothly and cleanly with the case, also updated the Readme and journal as asked for after the review
+Also found a way to make an Assembeled step file, i just expored the .stl file as an step file along with adding a completed .f3d file
 
-**Total time spent: 1h**
+**Total time spent: 2h**
