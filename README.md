@@ -44,7 +44,7 @@ I majorly made this just for fun and to get back into making hardware, i used Ki
 
 ## Bill of Materials (BOM)
 
-All electronic parts and hardware were sourced locally in India to avoid heavy import customs, with only the bare reversible PCBs ordered from JLCPCB. *(Also available as a standalone spreadsheet in `BOM.csv`. Exchange rate: ~₹92.63/USD → ~$81.61 USD total.)*
+(Exchange rate: ~₹92.63/USD - ~$82.01 USD total.)
 
 | Sr.no | Name | Footprint | Amt | Source | Unit Price (INR) | Total (INR) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -56,7 +56,7 @@ All electronic parts and hardware were sourced locally in India to avoid heavy i
 | 6 | KP-401230 3.7V 300mAh LiPo Rechargeable Battery (4mm) *(Incl. 18% GST)* | 2-wire leads | 2 | [ElectronicsComp.com](https://www.electronicscomp.com/3.7v-300mah-lipo-battery-model-401230-india) | ₹171.10 | ₹342.20 |
 | 7 | Gateron Milky Yellow Pro Linear Switches (5-Pin, 10-pack, 5% off 5+) | MX 5-Pin PCB Mount | 7 packs | [Meckeys.com](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-mechanical-pro-switch-5pin/?attribute_pa_switch-variation=pro-milky-yellow) | ₹189.05 | ₹1,323.35 |
 | 8 | Blank XDA PBT Keycaps (1u, Set of 5, Black, 10% off 10+) | MX Stem | 14 sets | [Meckeys.com](https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank/blank-xda-keycaps-1u/?attribute_pa_keycap-theme=black) | ₹125.10 | ₹1,751.40 |
-| 9 | Custom Split Keyboard PCBs (159mm × 110mm, 2-layer) | Custom FR4 (5 pcs) | 1 order | [JLCPCB.com](https://jlcpcb.com/) | ₹1,160.86 | ₹1,160.86 |
+| 9 | Custom Split Keyboard PCBs (159mm × 110mm, 2-layer) | Custom FR4 (5 pcs) | 1 order | [JLCPCB.com](https://jlcpcb.com/) | ₹1,148.61 | ₹1,148.61 |
 | 10 | 3D Printed Case & 1.5mm Switch Plates | PLA / PETG (~120g) | 1 set | printing legion / self | ₹0.00 | ₹0.00 |
-| 11 | Shipping & Courier Charges (Domestic + JLCPCB) | Flat Rate | 1 | Various | ₹1,062.71 | ₹1,062.71 |
-| **12** | **Total** | **Full Project Cost** | **—** | **—** | **—** | **₹7,559.84** |
+| 11 | Shipping & Courier Charges (JLCPCB $11.47 + ElectronicsComp ₹49) | Flat Rate | 1 | Various | ₹1,111.47 | ₹1,111.47 |
+| **12** | **Total** | **Full Project Cost** | **—** | **—** | **—** | **₹7,596.35** |
